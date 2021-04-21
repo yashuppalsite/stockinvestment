@@ -35,7 +35,7 @@ function Nd() {
         <button><Link to="/App">Back</Link></button>
   
         <Switch>
-          <Route exact path="/App" component = {App} />
+          <Route path="/App" component = {App} />
           </Switch>
         </Router>
       </header>
