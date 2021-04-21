@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/stockinvestment/static/css/main.b09a5810.chunk.css",
-    "main.js": "/stockinvestment/static/js/main.5890172a.chunk.js",
-    "main.js.map": "/stockinvestment/static/js/main.5890172a.chunk.js.map",
-    "runtime-main.js": "/stockinvestment/static/js/runtime-main.a314c276.js",
-    "runtime-main.js.map": "/stockinvestment/static/js/runtime-main.a314c276.js.map",
-    "static/js/2.e6142fdf.chunk.js": "/stockinvestment/static/js/2.e6142fdf.chunk.js",
-    "static/js/2.e6142fdf.chunk.js.map": "/stockinvestment/static/js/2.e6142fdf.chunk.js.map",
-    "static/js/3.d1b398b9.chunk.js": "/stockinvestment/static/js/3.d1b398b9.chunk.js",
-    "static/js/3.d1b398b9.chunk.js.map": "/stockinvestment/static/js/3.d1b398b9.chunk.js.map",
+    "main.css": "/stockinvestment/static/css/main.7b491008.chunk.css",
+    "main.js": "/stockinvestment/static/js/main.ff415cc0.chunk.js",
+    "main.js.map": "/stockinvestment/static/js/main.ff415cc0.chunk.js.map",
+    "runtime-main.js": "/stockinvestment/static/js/runtime-main.6f6a2a35.js",
+    "runtime-main.js.map": "/stockinvestment/static/js/runtime-main.6f6a2a35.js.map",
+    "static/js/2.19e0ba79.chunk.js": "/stockinvestment/static/js/2.19e0ba79.chunk.js",
+    "static/js/2.19e0ba79.chunk.js.map": "/stockinvestment/static/js/2.19e0ba79.chunk.js.map",
+    "static/js/3.1324a327.chunk.js": "/stockinvestment/static/js/3.1324a327.chunk.js",
+    "static/js/3.1324a327.chunk.js.map": "/stockinvestment/static/js/3.1324a327.chunk.js.map",
     "index.html": "/stockinvestment/index.html",
-    "static/css/main.b09a5810.chunk.css.map": "/stockinvestment/static/css/main.b09a5810.chunk.css.map",
-    "static/js/2.e6142fdf.chunk.js.LICENSE.txt": "/stockinvestment/static/js/2.e6142fdf.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/stockinvestment/static/media/logo.6ce24c58.svg"
+    "static/css/main.7b491008.chunk.css.map": "/stockinvestment/static/css/main.7b491008.chunk.css.map",
+    "static/js/2.19e0ba79.chunk.js.LICENSE.txt": "/stockinvestment/static/js/2.19e0ba79.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/stockinvestment/static/media/Img_Wix.f39e1d69.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a314c276.js",
-    "static/js/2.e6142fdf.chunk.js",
-    "static/css/main.b09a5810.chunk.css",
-    "static/js/main.5890172a.chunk.js"
+    "static/js/runtime-main.6f6a2a35.js",
+    "static/js/2.19e0ba79.chunk.js",
+    "static/css/main.7b491008.chunk.css",
+    "static/js/main.ff415cc0.chunk.js"
   ]
 }
